@@ -1,0 +1,2 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+week1 filter=lfs diff=lfs merge=lfs -text
