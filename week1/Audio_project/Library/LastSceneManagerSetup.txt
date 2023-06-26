@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Unity - Foundations of Audio/Scenes/EssentialsAudioScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
